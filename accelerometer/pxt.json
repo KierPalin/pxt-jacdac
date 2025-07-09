@@ -4,7 +4,7 @@
     "description": "MakeCode support for Jacdac Accelerometer service",
     "dependencies": {
         "core": "*",
-        "jacdac": "github:kierpalin/pxt-jacdac#v1.9.37"
+        "jacdac": "github:kierpalin/pxt-jacdac"
     },
     "files": [
         "constants.ts",

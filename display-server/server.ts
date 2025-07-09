@@ -4,7 +4,7 @@ import MkcdButtonEvent = ButtonEvent
 namespace jacdac {
     export class DisplayServer extends jacdac.SensorServer {
         constructor(
-            // public readonly button: Button,
+            public readonly display: Display,
             options?: jacdac.SensorServerOptions
         ) {
             super(jacdac.SRV_DISPLAY, options)

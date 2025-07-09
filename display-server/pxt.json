@@ -1,0 +1,21 @@
+{
+    "name": "jacdac-display-server",
+    "version": "1.9.36",
+    "description": "MakeCode support for Jacdac Display server",
+    "dependencies": {
+        "core": "*",
+        "jacdac": "github:jacdac/pxt-jacdac",
+        "jacdac-ST7735-display": "github:jacdac/pxt-jacdac/display"
+    },
+    "files": [
+        "server.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit",
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}

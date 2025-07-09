@@ -12,6 +12,7 @@
         "jacdac-color": "./color",
         "jacdac-distance": "./distance",
         "jacdac-display": "./display",
+        "jacdac-display-server": "./display-server",
         "jacdac-dual-motors": "./dual-motors",
         "jacdac-e-co2": "./e-co2",
         "jacdac-flex": "./flex",

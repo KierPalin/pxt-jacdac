@@ -11,6 +11,7 @@
         "jacdac-character-screen": "./character-screen",
         "jacdac-color": "./color",
         "jacdac-distance": "./distance",
+        "jacdac-display": "./display",
         "jacdac-dual-motors": "./dual-motors",
         "jacdac-e-co2": "./e-co2",
         "jacdac-flex": "./flex",

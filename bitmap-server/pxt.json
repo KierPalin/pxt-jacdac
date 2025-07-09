@@ -1,0 +1,24 @@
+{
+    "name": "jacdac-bitmap-server",
+    "version": "1.9.35",
+    "description": "MakeCode support for Jacdac Bitmap server",
+    "dependencies": {
+        "core": "*",
+        "jacdac": "github:jacdac/pxt-jacdac",
+        "jacdac-bitmap": "github:jacdac/pxt-jacdac/bitmap"
+    },
+    "files": [
+        "server.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.14.12",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "tsprj"
+}

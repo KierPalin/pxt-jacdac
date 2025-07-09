@@ -4,7 +4,7 @@
     "description": "MakeCode support for Jacdac Display server",
     "dependencies": {
         "core": "*",
-        "jacdac": "github:kierpalin/pxt-jacdac#f42baad125518155366fd76f659d8427db19d664",
+        "jacdac": "github:kierpalin/pxt-jacdac#c153268363889ec7f84c17bdee421e9bf89a7ea0",
         "jacdac-ST7735-display": "github:kierpalin/pxt-jacdac/display"
     },
     "files": [

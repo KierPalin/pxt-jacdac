@@ -17,6 +17,6 @@
     ],
     "dependencies": {
         "core": "*",
-        "jacdac": "github:jacdac/pxt-jacdac"
+        "jacdac": "github:kierpalin/pxt-jacdac#f42baad125518155366fd76f659d8427db19d664"
     }
 }
